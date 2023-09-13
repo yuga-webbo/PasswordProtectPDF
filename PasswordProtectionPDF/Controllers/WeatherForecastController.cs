@@ -41,7 +41,7 @@ namespace PasswordProtectionPDF.Controllers
             .ToArray();
         }
         /// <summary>
-        /// Updload Multiple Files
+        /// Updload  Files
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
